@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/date-calculator/static/css/main.d14eced3.css",
+    "main.js": "/date-calculator/static/js/main.69891c1f.js",
+    "index.html": "/date-calculator/index.html",
+    "main.d14eced3.css.map": "/date-calculator/static/css/main.d14eced3.css.map",
+    "main.69891c1f.js.map": "/date-calculator/static/js/main.69891c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14eced3.css",
+    "static/js/main.69891c1f.js"
+  ]
+}
